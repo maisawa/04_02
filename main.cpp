@@ -2,7 +2,6 @@
 #include <iostream>
 using namespace std;//std::È—ª
 
-
 template <typename Type, typename Type2>
 
 class TemplateClass
